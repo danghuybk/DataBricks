@@ -22,3 +22,8 @@
 - Practice some tranformations: `withColumnRenamed`, `withColumn` to read and perform some basic ETL to explore the data
 #### Source:
 - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/632996160314877/490135420165501/2507171090954711/latest.html
+### Lab 4
+#### Technical Accomplishments:
+- Using transformations and actions to perform ETL jobs and explore insight from the data
+#### Source:
+- https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/632996160314877/490135420165387/2507171090954711/latest.html
