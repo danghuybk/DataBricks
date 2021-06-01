@@ -10,7 +10,7 @@ This repository stores my practice with Spark Structured Streaming on DataBricks
 ### 1.3. Using Kafka Lab
 - Establish a connection with Kafka and stream data
 - Do some ETL jobs and time window function
-## 2. Twitter Capstone
+## 2. Capstone Project: Twitter Streaming Data Pipeline
 #### Technical Accomplishments:
 - In this capstone project, I will use Structured Streaming to gain insight from streaming Twitter data.
 #### Requirement:
