@@ -1,3 +1,4 @@
+This repository stores my training work with Spark DataFrame API on DataBricks platform. Including:
 ## 1. Reading and Writing Data
 #### Technical Accomplishments:
 - The goal of this lab is to put into practice about reading and writing data with Apache Spark.
