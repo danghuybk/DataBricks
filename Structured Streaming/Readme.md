@@ -1,4 +1,4 @@
-This folder stores my training work with Spark Structured Streaming on DataBricks platform. Including:
+# Spark Structured Streaming
 ## 1. Practice Lab
 ### 1.1. Streaming Concepts Lab
 - Stream data from a file and write it out to a distributed file system
