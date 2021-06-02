@@ -6,4 +6,4 @@
 - Structured Streaming: 
   - Practiced read, write streams from file and messaging system Kafka using DataStreamReader and DataStreamWriter.
   - Using DataFrame API to perform ETL jobs.
-  - Built a Twitter realtime data pipeline to get information like top most tweeted hashtag in last 5 minute and where they come from.
+  - Built a Twitter realtime data pipeline to get information like top most tweeted hashtag in last 5 minute and where they came from.
