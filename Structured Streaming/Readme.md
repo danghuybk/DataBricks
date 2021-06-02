@@ -11,9 +11,9 @@ This repository stores my training work with Spark Structured Streaming on DataB
 - Establish a connection with Kafka and stream data
 - Do some ETL jobs and time window function
 ## 2. Capstone Project: Twitter Streaming Data Pipeline
-#### Technical Accomplishments:
-- In this capstone project, I will use Structured Streaming to gain insight from streaming Twitter data.
-#### Requirement:
-- The executive team would like to have access to some key business metrics such as:
+- In this capstone project, I will build a data pipeline to stream live Tweets through a message broker (Kafka) and Structured Streaming. 
+- From the stream data, I will perform some ETL jobs to some information:
   - Most tweeted hashtag in last 5 minute window
   - A map of where tweets are coming from
+![Most tweeted hashtag](“https://github.com/danghuybk/Spark-Training/blob/main/Structured%20Streaming/images/Mosted%20tweet%20hashtag.png”)
+![Tweets map]("https://github.com/danghuybk/Spark-Training/blob/main/Structured%20Streaming/images/Tweets%20map.png")
