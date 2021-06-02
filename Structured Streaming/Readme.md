@@ -15,5 +15,11 @@ This repository stores my training work with Spark Structured Streaming on DataB
 - From the stream data, I will perform some ETL jobs to some information:
   - Most tweeted hashtag in last 5 minute window
   - A map of where tweets are coming from
-![Most tweeted hashtag](“https://github.com/danghuybk/Spark-Training/blob/main/Structured%20Streaming/images/Mosted%20tweet%20hashtag.png”)
-![Tweets map]("https://github.com/danghuybk/Spark-Training/blob/main/Structured%20Streaming/images/Tweets%20map.png")
+<h2 align="center">Most tweeted hashtag</h2>
+
+![Most tweeted hashtag](./images/1.png)
+
+<h2 align="center">Tweets map</h2>
+
+![Tweets map](./images/2.png)
+
